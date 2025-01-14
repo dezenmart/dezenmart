@@ -1,0 +1,1 @@
+<img width="60px" src="{{ asset('assets/images/logo/dezenmart-mark.png') }}" alt="Dezenmart">
