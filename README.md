@@ -1,4 +1,4 @@
-<p align="center"><a href="https://dezenmart.com" target="_blank"><img src="https://dezenmart.com/assets/images/logo/dezenmart-1.png" width="400" alt="Dezenmart Logo"></a></p>
+<p align="center"><a href="https://dezenmart.com" target="_blank"><img src="https://dezenmart.com/assets/images/logo/dezenmart-1.png" width="200" alt="Dezenmart Logo"></a></p>
 
 ## About Dezenmart
 
