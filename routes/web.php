@@ -153,10 +153,10 @@ Route::group(['middleware' => 'auth'], function() {
 
 
 // Disable the registration route
-Route::get('/register', function () {
-    return redirect('/login')->with('error', 'Registration is disabled!');
+// Route::get('/register', function () {
+//     return redirect('/login')->with('error', 'Registration is disabled!');
     // abort(403, 'Registration is disabled!');
-})->name('register');
+// })->name('register');
 
 
 
